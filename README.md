@@ -25,7 +25,6 @@ This is a general workflow of how to convert an image (SVG) file to g-code that 
 ### Free SVG Files Online
 The following websites provide free SVG files. You can also make your own SVG files in Adobe Illustrator.
 https://publicdomainvectors.org/
-
 https://lovesvg.com/
 
 ### Inkscape
