@@ -52,7 +52,7 @@ I know that this is a very low-res prototype for a pen carriage, but it will hav
 
 ## Drawing Samples
 Sample 1:
-![Sample 1](https://github.com/johnathantran/Pen-Plotter/blob/master/Sample1.jpg | width=100)
+<img src="https://github.com/johnathantran/Pen-Plotter/blob/master/Sample1.jpg" width=90%)
 
 Sample 2:
 ![Sample 2](https://github.com/johnathantran/Pen-Plotter/blob/master/Sample2.jpg | width=100)
