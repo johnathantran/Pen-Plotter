@@ -1,14 +1,16 @@
 # Pen-Plotter
-Reconfigured Marlin (commonly used for custom 3D printers) firmware for CNC-style pen plotting. This project was recreated from an existing food 3D printer running Marlin firmware by removing the syringe used for paste extrusion and replacing it with a makeshift pen carriage instead. As this is a branch-off project off of the Food 3D Printer (https://github.com/johnathantran/Marlin-Food-3D-Printer), it uses the exact same hardware and software (with the exception of the pen carriage and Repetier instead of Pronterface). Therefore, for detailed instructions on how to set up the physical build, wire the electronics, and program the Arduino, please refer to the Assembly Instructions in the Marlin Food 3D printer repo: https://github.com/johnathantran/Marlin-Food-3D-Printer/blob/master/Assembly%20Instructions.pdf
+Reconfigured Marlin (commonly used for custom 3D printers) firmware for CNC-style pen plotting. This project was recreated from an existing food 3D printer running Marlin firmware by removing the syringe used for paste extrusion and replacing it with a makeshift pen carriage instead.
+
+As this is a branch-off project off of the Food 3D Printer (https://github.com/johnathantran/Marlin-Food-3D-Printer), it uses the exact same hardware and software (with the exception of the pen carriage and Repetier instead of Pronterface). Therefore, for detailed instructions on how to set up the physical build, wire the electronics, and program the Arduino, please refer to the Assembly Instructions PDF in the Food 3D printer repo.
 
 ## Electronics Materials:
-1x Arduino Mega
-1x RAMPS 1.4 Shield
-1x 12V DC Power Supply
-3x DRV8825 Motor Drivers
-3x NEMA17 Stepper Motors
-2x Limit Switches
-9x Microstepping Jumpers
+- 1x Arduino Mega
+- 1x RAMPS 1.4 Shield
+- 1x 12V DC Power Supply
+- 3x DRV8825 Motor Drivers
+- 3x NEMA17 Stepper Motors
+- 2x Limit Switches
+- 9x Microstepping Jumpers
 
 ## Software
 - Arduino IDE
@@ -50,7 +52,7 @@ I know that this is a very low-res prototype for a pen carriage, but it will hav
 
 ## Drawing Samples
 Sample 1:
-![Sample 1](https://github.com/johnathantran/Pen-Plotter/blob/master/Sample1.jpg)
+![Sample 1](https://github.com/johnathantran/Pen-Plotter/blob/master/Sample1.jpg width=100)
 
 Sample 2:
-![Sample 2](https://github.com/johnathantran/Pen-Plotter/blob/master/Sample2.jpg)
+![Sample 2](https://github.com/johnathantran/Pen-Plotter/blob/master/Sample2.jpg width=100)
